@@ -14,6 +14,7 @@ Quasar (pronounced /ˈkweɪ.zɑɹ/) is an MIT licensed open-source Vue.js based 
 
 ## Install the dependencies
 ```bash
+npm install -g @quasar/cli
 npm install
 ```
 
