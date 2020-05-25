@@ -1,6 +1,6 @@
 # Todo (quasar-todo)
 
-A Quasar Framework app 
+A Quasar Framework app   
 Live Link: https://todo-quasar.netlify.app/  
   
 Quasar (pronounced /ˈkweɪ.zɑɹ/) is an MIT licensed open-source Vue.js based framework, which allows you as a web developer to quickly create responsive++ websites/apps in many flavours:
