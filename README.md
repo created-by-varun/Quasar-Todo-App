@@ -1,6 +1,7 @@
 # Todo (quasar-todo)
 
-A Quasar Framework app
+A Quasar Framework app  
+Live Link: https://todo-quasar.netlify.app/
 
 ## Install the dependencies
 ```bash
