@@ -1,7 +1,16 @@
 # Todo (quasar-todo)
 
-A Quasar Framework app  
-Live Link: https://todo-quasar.netlify.app/
+A Quasar Framework app 
+Live Link: https://todo-quasar.netlify.app/  
+  
+Quasar (pronounced /ˈkweɪ.zɑɹ/) is an MIT licensed open-source Vue.js based framework, which allows you as a web developer to quickly create responsive++ websites/apps in many flavours:
+
+    SPAs (Single Page App)
+    SSR (Server-side Rendered App) (+ optional PWA client takeover)
+    PWAs (Progressive Web App)
+    BEX (Browser Extension)
+    Mobile Apps (Android, iOS, …) through Cordova or Capacitor
+    Multi-platform Desktop Apps (using Electron)
 
 ## Install the dependencies
 ```bash
